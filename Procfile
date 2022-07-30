@@ -1,0 +1,1 @@
+worker: sin.py
